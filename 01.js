@@ -11,10 +11,10 @@
    let a = 15;
    a *= 3;
    console.log(a);
-  let helloInAzerbaijani = 'Salam';
-  let howAreYouInAzerbaijan = 'Necəsən?';
-  let greetingInAzerbaijani = helloInAzerbaijani + howAreYouInAzerbaijani;
-  console.log(greetingInAzerbaijani);
+  let helloInAzerbaijani = 'Salam ';
+   let howAreYouInAzerbaijani = 'Necəsən?';
+   greetingInAzerbaijani = helloInAzerbaijani + howAreYouInAzerbaijani;
+   console.log(greetingInAzerbaijani);
 
   </script>
 </body>
